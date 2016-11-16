@@ -78,7 +78,7 @@ img.alignleft{display:inline;margin:0 20px 10px 0;}
 .alignright{float:right;}
 .post-footer-line-1{display:none;}
 #comments-block .avatar-image-container img{background:#fff url(//3.bp.blogspot.com/-UMSMHaOBzQg/To2XKFseUSI/AAAAAAAACVU/vlvJki_9vqA/s1600/gravatar.png) no-repeat left top;height:32px;width:32px;}
-p.footer-link{background:#fff;border-top:1px solid #ddd;clear:both;color:#111;font-size:11px;line-height:18px;margin:0px;overflow:hidden;padding:20px;text-align:center;}
+p.footer-link{background:#1B1B1B;border-top:5px solid #6cb2e4;clear:both;color:#646464;font-size:11px;line-height:18px;margin:0px;overflow:hidden;padding:20px;text-align:center;}
 .post-header-home{margin:10px 20px;}
 .post-header{border-bottom:1px solid #ddd;margin-bottom:20px;margin-top:10px;}
 #related-posts li{border-bottom:1px solid #eee;display:block;float:left;margin-bottom:10px;margin-left:15px;padding-bottom:10px;width:47%;}
