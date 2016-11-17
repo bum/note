@@ -28,7 +28,7 @@ body p{line-height:2em;padding-bottom:20px;}
 .header{margin:35px 0;}
 .descriptionwrapper p{margin-bottom:0;padding:0;}
 .date-header{display:none;}
-.post{color:#666;font-family:Roboto,sans-serif;line-height:1.5em;margin-bottom:10px;padding:10px 20px;}
+.post{color:#666;font-family:Roboto,sans-serif;line-height:1.5em;margin-bottom:10px;padding:10px 20px 20px 10px;}
 .post-outer{background:#fff;border:1px solid #ddd;border-radius:5px;box-shadow:1px 1px 2px 0 #d0d0d0;line-height:2em;margin-bottom:10px;moz-box-shadow:1px 1px 2px 0 #d0d0d0;webkit-box-shadow:1px 1px 2px 0 #d0d0d0;}
 .post .post-text{clear:both;padding-bottom:5px;}
 .post h2.post-title{font-family:Roboto,sans-serif;font-weight:700;letter-spacing:-1px;margin-top:0;}
