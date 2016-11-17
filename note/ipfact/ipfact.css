@@ -713,7 +713,7 @@ a.thumbnail.active,a.thumbnail:focus,a.thumbnail:hover{border-color:#428bca;}
 ul.nav li.dropdown:hover>ul.dropdown-menu{display:block;}
 .post-div{background:#fff;border-radius:4px;box-shadow:0 1px 2px 0 rgba(0,0,0,.2),transparent 0 0 0,transparent 0 0 0,transparent 0 0 0,transparent 0 0 0;box-sizing:border-box;margin:0 0 20px;moz-border-radius:4px;moz-box-shadow:inset 0 1px 2px 0 rgba(0,0,0,.2),transparent 0 0 0,transparent 0 0 0,transparent 0 0 0,transparent 0 0 0;moz-box-sizing:border-box;position:relative;webkit-border-radius:4px;webkit-box-shadow:inset 0 1px 2px 0 rgba(0,0,0,.2),transparent 0 0 0,transparent 0 0 0,transparent 0 0 0,transparent 0 0 0;webkit-box-sizing:border-box;}
 .post-header-label{border-top:1px solid #eee;font-size:12px;padding:20px;}
-.post-header-label, .post-header-label a{color:#888;}
+.post-header-label, .post-header-label a, .post-header .post-labels a {color:#888;}
 .s-clear{clear:both;}
 .PopularPosts .widget-content ul li{border:1px solid #ddd;border-radius:4px;box-shadow:1px 1px 2px 0 #d0d0d0;margin-bottom:10px;moz-box-shadow:1px 1px 2px 0 #d0d0d0;padding:10px;webkit-box-shadow:1px 1px 2px 0 #d0d0d0;}
 .PopularPosts img{border-radius:10px;padding:3px;}
@@ -721,3 +721,5 @@ ul.nav li.dropdown:hover>ul.dropdown-menu{display:block;}
 .post-div img, .post img{max-width:100%;}
 .container.page{padding-top:15px;}
 #HTML1{padding-bottom:0px;}
+.fb-cmts {min-height:40px; position:relative; margin-bottom:-32px; margin-top:15px;}
+.fb-cmts-hover {background-color:#fff; height:15px; width:200px; z-index:1000; position:absolute;}
