@@ -1,6 +1,6 @@
 var thumbnail_mode = "no-float";
-summary_noimg = 685;
-summary_img = 585;
+summary_noimg = 585;
+summary_img = 485;
 img_thumb_height = 200;
 img_thumb_width = 250;
 
