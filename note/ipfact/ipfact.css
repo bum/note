@@ -83,9 +83,9 @@ p.footer-link{background:#1B1B1B;border-top:5px solid #6cb2e4;clear:both;font-si
 .post-header{border-bottom:1px solid #ddd;margin-bottom:20px;margin-top:10px;}
 #related-posts li{border-bottom:1px solid #eee;display:block;float:left;margin-bottom:10px;margin-left:15px;padding-bottom:10px;width:47%;}
 #related-posts{font-size:14px;line-height:20px;}
-#related-posts h3{background:#fff;color:#333;font-size:18px;line-height:14px;margin:3px 0;position:relative;text-transform:capitalize;z-index:2;}
+#related-posts h3{color:#333;font-size:18px;line-height:14px;margin:3px 0;position:relative;text-transform:capitalize;z-index:2;}
 #related-posts img{moz-transition:all .1s ease-in-out;ms-transition:all .1s ease-in-out;opacity:1;o-transition:all .1s ease-in-out;transition:all .1s ease-in-out;webkit-transition:all .1s ease-in-out;}
-#related-posts a{border:1px solid #ddd;box-shadow:1px 1px 2px 0 #d0d0d0;margin:2px;moz-box-shadow:1px 1px 2px 0 #d0d0d0;text-align:center;webkit-box-shadow:1px 1px 2px 0 #d0d0d0;}
+#related-posts a{background:#fff;border:1px solid #ddd;box-shadow:1px 1px 2px 0 #d0d0d0;margin:2px;moz-box-shadow:1px 1px 2px 0 #d0d0d0;text-align:center;webkit-box-shadow:1px 1px 2px 0 #d0d0d0;}
 .imgpost{border:0 none;font-size:14px;font-size-adjust:none;font-stretch:normal;font-style:normal;font-variant:normal;font-weight:400;height:65px;line-height:25px;margin:3px 0 0;padding:0;width:193px;}
 .status-msg-
 body{position:relative!important;}
