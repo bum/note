@@ -28,7 +28,7 @@ body p{line-height:2em;padding-bottom:20px;}
 .header{margin:35px 0;}
 .descriptionwrapper p{margin-bottom:0;padding:0;}
 .date-header{display:none;}
-.post{line-height:1.5em;margin-bottom:10px;padding:10px 20px 20px 10px;}
+.post{line-height:1.5em;padding:10px;}
 .post-outer{line-height:2em;margin-bottom:10px;}
 .post .post-text{clear:both;padding-bottom:5px;}
 .post h2.post-title{font-family:Roboto,sans-serif;font-weight:700;letter-spacing:-1px;margin-top:0;}
@@ -269,7 +269,6 @@ a.thumbnail.active,a.thumbnail:focus,a.thumbnail:hover{border-color:#428bca;}
 .h-title{font-family:Pacifico,cursive;font-size:30px;line-height:1.1;margin:5px 0;}
 .h-title a{color:#666;}
 .img-post-thumb:hover{opacity:.8;}
-.homapge-thumb{margin:10px 0;}
 .caret{border-left:4px solid transparent;border-right:4px solid transparent;border-top:4px solid;display:inline-block;height:0;margin-left:2px;vertical-align:middle;width:0;}
 .dropdown{position:relative;}
 .dropdown-toggle:focus{outline:0;}
