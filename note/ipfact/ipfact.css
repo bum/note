@@ -169,7 +169,7 @@ select{background:#fff!important;}
 }
 *,:after,:before{box-sizing:border-box;moz-box-sizing:border-box;webkit-box-sizing:border-box;}
 html{font-size:62.5%;webkit-tap-highlight-color:rgba(0,0,0,0);}
-body{background-color:#f0f0f0;color:#333;font-family:Roboto,sans-serif;font-size:14px;line-height:1.428571429;}
+body{background-color:#fafafa;color:#141414;font-family:Helvetica,Arial,sans-serif;font-size:14px;line-height:1.28;text-size-adjust:100%; min-width: 300px;-webkit-text-size-adjust:100%;-moz-text-size-adjust:100%;-ms-text-size-adjust:100%;}
 button,input,select,textarea{font-family:inherit;font-size:inherit;line-height:inherit;}
 a{color:#4d8b97;text-decoration:none;}
 a:focus,a:hover{color:#3374a2;}
