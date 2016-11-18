@@ -2,6 +2,7 @@
 *{margin:0;padding:0;}
 body#layout#feature{display:none;}
 a,abbr,acronym,address,applet,b,big,blockquote,body,caption,center,cite,code,dd,del,dfn,div,dl,dt,em,fieldset,font,form,h1,h2,h3,h4,h5,h6,html,i,iframe,img,ins,kbd,label,legend,li,object,ol,p,pre,q,s,samp,small,span,strike,strong,sub,sup,tt,u,ul,var{background:0 0;border:0;font-size:100%;margin:0;outline:0;padding:0;vertical-align:baseline;}
+iframe {max-width:100%;}
 .body-fauxcolumn-outer,body{line-height:1;}
 ol,ul{list-style:none;}
 blockquote,q{quotes:none;}
