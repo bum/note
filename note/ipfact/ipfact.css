@@ -721,5 +721,5 @@ ul.nav li.dropdown:hover>ul.dropdown-menu{display:block;}
 .post-div img, .post img{max-width:100%;}
 .container.page{padding-top:15px;}
 #HTML1{padding-bottom:0px;}
-.fb-cmts {min-height:40px; position:relative; margin-bottom:-32px; margin-top:15px;}
+.fb-cmts {min-height:40px; position:relative; margin-bottom:-30px; margin-top:15px;}
 .fb-cmts-hover {background-color:#fff; height:15px; width:200px; z-index:1000; position:absolute;}
