@@ -723,3 +723,4 @@ ul.nav li.dropdown:hover>ul.dropdown-menu{display:block;}
 #HTML1{padding-bottom:0px;}
 .fb-cmts {min-height:40px; position:relative; margin-bottom:-30px; margin-top:15px;}
 .fb-cmts-hover {background-color:#fafafa; height:15px; width:200px; z-index:1000; position:absolute;}
+.PopularPosts .item-title {font-weight:bold;}
