@@ -80,7 +80,7 @@ img.alignleft{display:inline;margin:0 20px 10px 0;}
 #comments-block .avatar-image-container img{background:#fff url(//3.bp.blogspot.com/-UMSMHaOBzQg/To2XKFseUSI/AAAAAAAACVU/vlvJki_9vqA/s1600/gravatar.png) no-repeat left top;height:32px;width:32px;}
 p.footer-link{background:#1B1B1B;border-top:5px solid #6cb2e4;clear:both;font-size:11px;line-height:18px;margin:0px;overflow:hidden;padding:20px;text-align:center;}
 .post-header-home{margin:10px 20px;}
-.post-header{border-bottom:1px solid #ddd;margin-bottom:20px;margin-top:10px;}
+.post-header{margin-bottom:10px;margin-top:10px;}
 #related-posts li{border-bottom:1px solid #eee;display:block;float:left;margin-bottom:10px;margin-left:15px;padding-bottom:10px;width:47%;}
 #related-posts{font-size:14px;line-height:20px;}
 #related-posts h3{color:#333;font-size:18px;line-height:14px;margin:3px 0;position:relative;text-transform:capitalize;z-index:2;}
@@ -174,7 +174,7 @@ button,input,select,textarea{font-family:inherit;font-size:inherit;line-height:i
 a{color:#4d8b97;text-decoration:none;}
 a:focus,a:hover{color:#3374a2;}
 a:focus{outline:5px auto -webkit-focus-ring-color;outline:thin dotted;outline-offset:-2px;}
-.post a {color:#141414;}
+.summary a {color:#141414;}
 img{vertical-align:middle;}
 .img-responsive{display:block;height:auto;max-width:100%;}
 .img-rounded{border-radius:6px;}
