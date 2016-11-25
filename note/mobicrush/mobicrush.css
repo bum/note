@@ -23,6 +23,7 @@ body p{line-height:2em;padding-bottom:20px;}
 #header h1{color:#666;letter-spacing:-2px;text-shadow:2px 2px 2px #FFF;}
 #header a,#header a:hover{color:#666;text-decoration:none;}
 #header .description{color:#888;font-family:Roboto,sans-serif;font-size:14px;line-height:1.4em;margin:-3px 5px 5px;}
+.nav-pills>li>a{color:#fff;}
 .header{margin:35px 0;}
 .descriptionwrapper p{margin-bottom:0;padding:0;}
 .date-header{display:none;}
