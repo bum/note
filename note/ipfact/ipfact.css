@@ -356,7 +356,7 @@ a.thumbnail.active,a.thumbnail:focus,a.thumbnail:hover{border-color:#428bca;}
 .navbar-collapse:after{clear:both;}
 .navbar-collapse.in{overflow-y:auto;}
 @media (min-width:768px){.navbar-collapse{border-top:0;box-shadow:none;width:auto;}
-.navbar-collapse.collapse{display:block!important;height:auto!important;overflow:visible!important;padding-bottom:0;}
+.navbar-collapse.collapse{display:block;height:auto;overflow:visible;padding-bottom:0;}
 .navbar-collapse.in{overflow-y:visible;}
 .navbar-fixed-bottom .navbar-collapse,.navbar-fixed-top .navbar-collapse,.navbar-static-top .navbar-collapse{padding-left:0;padding-right:0;}
 }
