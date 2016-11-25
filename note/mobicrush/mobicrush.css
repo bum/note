@@ -1,8 +1,5 @@
-#navbar-iframe{display:none;}
-*{margin:0;padding:0;}
 body#layout#feature{display:none;}
-a,abbr,acronym,address,applet,b,big,blockquote,body,caption,center,cite,code,dd,del,dfn,div,dl,dt,em,fieldset,font,form,h1,h2,h3,h4,h5,h6,html,i,iframe,img,ins,kbd,label,legend,li,object,ol,p,pre,q,s,samp,small,span,strike,strong,sub,sup,tt,u,ul,var{background:0 0;border:0;font-size:100%;margin:0;outline:0;padding:0;vertical-align:baseline;}
-iframe {max-width:100%;}
+
 .body-fauxcolumn-outer,body{line-height:1;}
 ol,ul{list-style:none;}
 blockquote,q{quotes:none;}
@@ -148,25 +145,27 @@ input[type=search]::-webkit-search-cancel-button,input[type=search]::-webkit-sea
 button::-moz-focus-inner,input::-moz-focus-inner{border:0;padding:0;}
 textarea{overflow:auto;vertical-align:top;}
 table{border-collapse:collapse;border-spacing:0;}
-@media print{*{background:transparent!important;box-shadow:none!important;color:#000!important;text-shadow:none!important;}
-a,a:visited{text-decoration:underline;}
-a[href]:after{content:" (" attr(href) ")";}
-abbr[title]:after{content:" (" attr(title) ")";}
-a[href^="javascript:"]:after,a[href^="#"]:after{content:"";}
-blockquote,pre{border:1px solid #999;page-break-inside:avoid;}
-thead{display:table-header-group;}
-img,tr{page-break-inside:avoid;}
-img{max-width:100%!important;}
-@page{margin:2cm .5cm;}
-h2,h3,p{orphans:3;widows:3;}
-h2,h3{page-break-after:avoid;}
-select{background:#fff!important;}
-.navbar{display:none;}
-.table td,.table th{background-color:#fff!important;}
-.btn>.caret,.dropup>.btn>.caret{border-top-color:#000!important;}
-.label{border:1px solid #000;}
-.table{border-collapse:collapse!important;}
-.table-bordered td,.table-bordered th{border:1px solid #ddd!important;}
+
+@media print{
+	*{background:transparent!important;box-shadow:none!important;color:#000!important;text-shadow:none!important;}
+	a,a:visited{text-decoration:underline;}
+	a[href]:after{content:" (" attr(href) ")";}
+	abbr[title]:after{content:" (" attr(title) ")";}
+	a[href^="javascript:"]:after,a[href^="#"]:after{content:"";}
+	blockquote,pre{border:1px solid #999;page-break-inside:avoid;}
+	thead{display:table-header-group;}
+	img,tr{page-break-inside:avoid;}
+	img{max-width:100%!important;}
+	@page{margin:2cm .5cm;}
+	h2,h3,p{orphans:3;widows:3;}
+	h2,h3{page-break-after:avoid;}
+	select{background:#fff!important;}
+	.navbar{display:none;}
+	.table td,.table th{background-color:#fff!important;}
+	.btn>.caret,.dropup>.btn>.caret{border-top-color:#000!important;}
+	.label{border:1px solid #000;}
+	.table{border-collapse:collapse!important;}
+	.table-bordered td,.table-bordered th{border:1px solid #ddd!important;}
 }
 *,:after,:before{box-sizing:border-box;moz-box-sizing:border-box;webkit-box-sizing:border-box;}
 html{font-size:62.5%;webkit-tap-highlight-color:rgba(0,0,0,0);}
@@ -175,6 +174,8 @@ button,input,select,textarea{font-family:inherit;font-size:inherit;line-height:i
 a{color:#4d8b97;text-decoration:none;}
 a:focus,a:hover{color:#3374a2;}
 a:focus{outline:5px auto -webkit-focus-ring-color;outline:thin dotted;outline-offset:-2px;}
+a,a:focus,a:hover{text-decoration:none;}
+
 .summary a {color:#141414;}
 .summary .thumb {border-radius:4px;float:left;margin-right:10px;max-width:500px;width:100%;margin-bottom:10px;height:200px;background-size:cover;background-position:center 0;background-repeat:no-repeat;background-color:transparent;}
 img{vertical-align:middle;}
@@ -686,6 +687,7 @@ a.thumbnail.active,a.thumbnail:focus,a.thumbnail:hover{border-color:#428bca;}
 .col-lg-offset-1{margin-left:8.33333333%;}
 .col-lg-offset-0{margin-left:0;}
 }
+
 #container{max-width:1040px;}
 .img-home-thumb{height:154px;width:200px;}
 .hash-home{float:left;margin-right:4px;}
@@ -727,7 +729,9 @@ ul.nav li.dropdown:hover>ul.dropdown-menu{display:block;}
 .s-clear{clear:both;}
 .PopularPosts .widget-content ul li{border-bottom:1px solid #e9e9e9;margin-bottom:10px;}
 .PopularPosts img{border-radius:10px;padding:3px;}
-.Navbar{display:none;}
+
+iframe {max-width:100%;}
+#navbar-iframe, .Navbar{display:none;}
 .post-div img, .post img{max-width:100%;}
 .container.page{padding-top:15px;}
 #HTML1{padding-bottom:0px;}
