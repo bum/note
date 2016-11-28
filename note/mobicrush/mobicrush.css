@@ -129,7 +129,7 @@ a:focus{outline:5px auto -webkit-focus-ring-color;outline:thin dotted;outline-of
 a,a:focus,a:hover{text-decoration:none;}
 
 .summary a {color:#141414;}
-.summary .thumb {border-radius:4px;float:left;max-width:760px;width:100%;margin-bottom:10px;background-size:cover;background-position:center 0;background-repeat:no-repeat;background-color:transparent;}
+.summary .thumb {border-radius:4px;float:left;max-width:760px;width:100%;margin-bottom:10px;background-size:cover;background-position:center 25%;background-repeat:no-repeat;background-color:transparent;}
 
 #container{max-width:1040px;}
 .img-home-thumb{height:154px;width:200px;}
