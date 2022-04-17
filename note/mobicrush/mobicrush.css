@@ -14,7 +14,7 @@ body p{line-height:2em;padding-bottom:20px;}
 #content{display:inline;float:left;margin-top:-10px;padding:20px 0 10px;width:712px;}
 #content-wide{clear:both;padding:10px 0;width:1060px;}
 #aside{color:#ccc;display:inline;float:right;padding:10px 0;width:336px;}
-#footer{background:#dfdfdf;clear:both;font-size:12px;overflow:hidden;}
+#footer{background:#1B1B1B;clear:both;font-size:12px;overflow:hidden;border-top:5px solid #6cb2e4; line-height:18px;margin:0px;padding:20px;}
 .radius{border-radius:5px;moz-border-radius:5px;o-border-radius:5px;webkit-border-radius:5px;}
 #main-top-nav{background-color:#fa3d03;float:left;margin:0 0 -1px 0;padding:0;position:relative;width:100%;z-index:999;}
 #header-wrapper{min-height:90px;}
@@ -85,7 +85,7 @@ img.alignleft{display:inline;margin:0 20px 10px 0;}
 .alignright{float:right;}
 .post-footer-line-1{display:none;}
 #comments-block .avatar-image-container img{background:#fff url(//3.bp.blogspot.com/-UMSMHaOBzQg/To2XKFseUSI/AAAAAAAACVU/vlvJki_9vqA/s1600/gravatar.png) no-repeat left top;height:32px;width:32px;}
-p.footer-link{background:#1B1B1B;border-top:5px solid #6cb2e4;clear:both;font-size:11px;line-height:18px;margin:0px;overflow:hidden;padding:20px;text-align:center;}
+p.footer-link{}
 .post-header-home{margin:10px 20px;}
 .post-header{margin-bottom:10px;margin-top:10px;}
 
