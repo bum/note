@@ -85,7 +85,7 @@ img.alignleft{display:inline;margin:0 20px 10px 0;}
 .alignright{float:right;}
 .post-footer-line-1{display:none;}
 #comments-block .avatar-image-container img{background:#fff url(//3.bp.blogspot.com/-UMSMHaOBzQg/To2XKFseUSI/AAAAAAAACVU/vlvJki_9vqA/s1600/gravatar.png) no-repeat left top;height:32px;width:32px;}
-#footer p {padding:0}
+#footer p {padding:0; margin:0;}
 .post-header-home{margin:10px 20px;}
 .post-header{margin-bottom:10px;margin-top:10px;}
 
