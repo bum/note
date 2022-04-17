@@ -118,7 +118,7 @@ p.footer-link, #footer a{color:#646464}
 .main-top-nav{border-radius:0!important;z-index:10000;}
 .post ul li{list-style:initial;margin-left:20px;}
 .img-post-thumb{box-shadow:0 4px 4px -4px rgba(0,0,0,.7);webkit-box-shadow:0 4px 4px -4px rgba(0,0,0,.7);}
-.btn-def{background:url(//3.bp.blogspot.com/-F6JS0gzLxag/UwI54vaUTlI/AAAAAAAAATE/EEQ-eSyg-yc/s1600/search.png) no-repeat;background-color:transparent;border:none;color:transparent;display:inline-block;height:17px;margin-left:-30px;text-shadow:none;vertical-align:middle;width:16px;z-index:671;zoom:1;}
+.btn-def{background:url(//3.bp.blogspot.com/-F6JS0gzLxag/UwI54vaUTlI/AAAAAAAAATE/EEQ-eSyg-yc/s1600/search.png) no-repeat;background-color:transparent;border:none;color:transparent!important;display:inline-block;height:17px;margin-left:-30px;text-shadow:none;vertical-align:middle;width:16px;z-index:671;zoom:1;}
 .form-main-search{padding-right:30px;}
 .collapse{display:none;}
 
